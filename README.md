@@ -1,1 +1,1 @@
-# rock-paper-scissors-js-SPA-
+Simple game of Rock, paper, scissors made in js
